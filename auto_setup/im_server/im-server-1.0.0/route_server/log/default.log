@@ -1,0 +1,204 @@
+2016-03-18 17:31:28,849 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.44:8200
+2016-03-18 17:43:32,755 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 17:43:56,556 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.44:8200
+2016-03-18 21:01:45,607 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 21:01:45,680 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:37761
+
+2016-03-18 21:01:45,698 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 21:22:14,756 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 21:24:11,333 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 21:48:19,846 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 21:48:19,849 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:38214
+
+2016-03-18 21:48:19,849 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:11:14,764 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 22:11:42,564 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 22:11:42,893 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:38679
+
+2016-03-18 22:11:42,930 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:22:34,877 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.0.115:38911
+
+2016-03-18 22:22:34,880 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 22:22:34,897 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 22:22:48,775 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=8 
+2016-03-18 22:25:06,274 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 22:25:32,938 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 22:25:33,051 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:38974
+
+2016-03-18 22:25:33,052 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:29:07,408 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 22:29:17,655 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 22:29:17,663 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:39063
+
+2016-03-18 22:29:17,686 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:29:17,708 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 22:29:17,994 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.0.115:39073
+
+2016-03-18 22:29:17,995 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 22:36:39,749 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 22:36:39,799 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:47989
+
+2016-03-18 22:36:39,810 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:36:39,985 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.0.115:47996
+
+2016-03-18 22:36:40,052 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 22:36:40,053 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 22:49:42,622 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.0.115:8200
+2016-03-18 22:49:42,737 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.0.115:53704
+
+2016-03-18 22:49:42,779 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:49:42,779 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 22:49:46,638 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.0.115:53715
+
+2016-03-18 22:49:46,652 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 22:56:28,563 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.103:8200
+2016-03-18 22:56:28,642 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.103:43829
+
+2016-03-18 22:56:28,656 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 22:56:28,881 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.103:43836
+
+2016-03-18 22:56:28,916 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 22:56:28,917 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 22:59:44,500 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-18 23:00:14,917 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.103:8200
+2016-03-18 23:00:15,067 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.103:44013
+
+2016-03-18 23:00:15,067 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 23:00:15,140 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.103:44020
+
+2016-03-18 23:00:15,159 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 23:00:15,159 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 23:33:26,317 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.103:8200
+2016-03-18 23:33:44,190 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.103:8200
+2016-03-18 23:33:44,324 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.103:45173
+
+2016-03-18 23:33:44,324 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-18 23:33:44,324 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-18 23:33:44,377 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.103:45183
+
+2016-03-18 23:33:44,391 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-18 23:35:34,560 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.103:8200
+2016-03-18 23:35:46,406 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-21 10:29:12,785 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 10:29:12,816 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:46101
+
+2016-03-21 10:29:12,862 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 10:29:13,180 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:46108
+
+2016-03-21 10:29:13,194 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 10:29:13,194 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-21 11:20:11,664 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 11:20:12,988 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 11:20:13,015 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 11:23:31,170 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 11:23:39,036 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 11:29:14,634 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=1 
+2016-03-21 11:29:15,674 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=3, query_count=0 
+2016-03-21 11:29:15,674 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=3, query_count=0 
+2016-03-21 11:30:47,183 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 11:30:47,185 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 11:30:52,200 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 11:30:52,205 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 11:31:27,236 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 11:31:27,240 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 11:31:52,645 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 11:31:56,363 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 11:31:56,627 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 11:31:56,628 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 11:33:01,115 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=4, client_type=1 
+2016-03-21 11:33:02,188 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=4, query_count=0 
+2016-03-21 11:33:02,188 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=4, query_count=0 
+2016-03-21 11:37:48,744 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=4, client_type=1 
+2016-03-21 12:08:12,710 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 12:08:12,773 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 12:31:15,118 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 12:31:15,129 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 12:31:19,631 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=1 
+2016-03-21 12:31:19,633 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=1 
+2016-03-21 12:31:19,765 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=3, query_count=0 
+2016-03-21 12:31:25,250 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 12:31:25,724 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 12:36:09,866 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 12:36:09,866 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 12:36:09,866 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=1 
+2016-03-21 12:36:10,104 [INFO  IM] - <BaseSocket.cpp>|<141>|<Send>,!!!send failed, error code: 32
+2016-03-21 12:36:10,104 [INFO  IM] - <imconn.cpp>|<113>|<Send>,send busy, remain=20 
+2016-03-21 12:36:10,104 [INFO  IM] - <BaseSocket.cpp>|<141>|<Send>,!!!send failed, error code: 32
+2016-03-21 12:36:10,104 [INFO  IM] - <imconn.cpp>|<190>|<OnWrite>,onWrite, remain=42 
+2016-03-21 12:36:10,104 [INFO  IM] - <RouteConn.cpp>|<120>|<OnTimer>,message server timeout 
+2016-03-21 12:36:10,104 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=8 
+2016-03-21 12:36:10,168 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:48279
+
+2016-03-21 12:36:10,168 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 12:36:10,168 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=1 
+2016-03-21 12:36:10,476 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:48289
+
+2016-03-21 12:36:10,478 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 12:36:11,964 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=1 
+2016-03-21 12:36:12,075 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=3, query_count=0 
+2016-03-21 12:36:12,493 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 12:36:12,575 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 12:36:15,205 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 12:36:15,395 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 13:36:24,677 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 13:36:24,971 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 14:15:16,632 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=1 
+2016-03-21 14:15:17,101 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=1 
+2016-03-21 14:15:17,101 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=3, query_count=0 
+2016-03-21 14:15:17,101 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 14:15:17,101 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 14:16:37,537 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 14:16:37,659 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 14:16:48,193 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 14:18:12,265 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 15:12:48,985 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 15:12:49,075 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 15:13:08,513 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 15:13:08,517 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=1 
+2016-03-21 15:13:08,968 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 15:14:18,212 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=2, client_type=1 
+2016-03-21 15:20:03,357 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:23:44,500 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-21 15:27:00,805 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:27:00,904 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:49382
+
+2016-03-21 15:27:00,936 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 15:27:00,936 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-21 15:27:04,502 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:49403
+
+2016-03-21 15:27:04,525 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 15:27:39,726 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:28:13,491 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:28:17,206 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:49485
+
+2016-03-21 15:28:17,207 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 15:28:17,209 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:49492
+
+2016-03-21 15:28:17,209 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 15:28:17,209 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-21 15:32:12,874 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:32:35,926 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-21 15:32:53,275 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:32:53,963 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:49694
+
+2016-03-21 15:32:53,963 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:49704
+
+2016-03-21 15:32:53,964 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 15:32:53,964 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-21 15:32:53,964 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 15:36:22,325 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:36:53,453 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8200
+2016-03-21 15:36:57,284 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:49803
+
+2016-03-21 15:36:57,286 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.46:49810
+
+2016-03-21 15:36:57,286 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=8 
+2016-03-21 15:36:57,287 [INFO  IM] - <RouteConn.cpp>|<169>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2016-03-21 15:36:57,287 [INFO  IM] - <RouteConn.cpp>|<266>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2016-03-21 15:44:37,453 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=2, client_type=1 
+2016-03-21 15:44:38,084 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 15:44:38,084 [INFO  IM] - <RouteConn.cpp>|<281>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=2, query_count=0 
+2016-03-21 15:44:51,031 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 15:53:51,459 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=3, client_type=18 
+2016-03-21 15:57:52,245 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 
+2016-03-21 15:58:52,283 [INFO  IM] - <RouteConn.cpp>|<185>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=3, client_type=18 

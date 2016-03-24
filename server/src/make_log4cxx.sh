@@ -78,13 +78,24 @@ get_cur_dir() {
 }
 
 build_log4cxx(){
-    yum -y install apr-devel
-    yum -y install apr-util-devel
     cd log4cxx
-    download $LOG4CXX.tar.gz $LOG4CXX_PATH
-    tar -xf $LOG4CXX.tar.gz
+    tar -xf ./apr-1.5.2.tar.gz
+    cd apr-1.5.2
+    ./configure --prefix=/usr/local/apr
+    make
+    make install
+    cd ..
+
+    tar -xf ./apr-util-1.5.4.tar.gz
+    cd apr-util-1.5.4
+    ./configure --prefix=/usr/local/apr-util --with-apr=/usr/local/apr
+    make
+    make install
+    cd ..
+    
+
     cd $LOG4CXX
-    ./configure --prefix=$CUR_DIR/log4cxx --with-apr=/usr --with-apr-util=/usr
+    ./configure --prefix=$CUR_DIR/log4cxx --with-apr=/usr/local/apr --with-apr-util=/usr/local/apr-util
     cp ../inputstreamreader.cpp ./src/main/cpp/
     cp ../socketoutputstream.cpp ./src/main/cpp/
     cp ../console.cpp ./src/examples/cpp/

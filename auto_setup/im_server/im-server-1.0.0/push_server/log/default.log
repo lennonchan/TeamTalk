@@ -1,0 +1,66 @@
+2016-03-18 17:31:28,985 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 17:31:28,985 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 17:43:32,694 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 17:43:32,694 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 17:43:56,164 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 17:43:56,164 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 21:01:45,952 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 21:01:46,000 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 21:22:14,505 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 21:22:14,505 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 21:24:11,189 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 21:24:11,189 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 21:48:19,565 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 21:48:19,565 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:11:14,953 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:11:14,961 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:11:42,503 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:11:42,503 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:25:06,377 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:25:06,377 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:25:33,125 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:25:33,126 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:29:07,723 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:29:07,723 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:29:17,719 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:29:17,719 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:36:39,967 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:36:39,979 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:49:42,778 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:49:42,785 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:56:28,606 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:56:28,626 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 22:59:44,417 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 22:59:44,417 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 23:00:14,963 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 23:00:14,963 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 23:33:26,535 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 23:33:26,544 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 23:33:44,019 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 23:33:44,019 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 23:35:34,530 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 23:35:34,530 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-18 23:35:46,466 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-18 23:35:46,466 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 10:29:13,021 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 10:29:13,061 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:20:03,723 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:20:03,734 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:23:44,660 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:23:44,661 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:27:00,552 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:27:00,552 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:27:39,344 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:27:39,345 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:28:13,311 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:28:13,311 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:32:12,838 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:32:12,839 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:32:35,968 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:32:35,968 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:32:53,998 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:32:53,998 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:36:22,346 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:36:22,399 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.
+2016-03-21 15:36:53,227 [ERROR SOCKET] - <ssl_client_async.cpp>|<41>|<InitSSL>,init ssl: use certificate file failed.
+2016-03-21 15:36:53,227 [ERROR PUSH] - <apns_client.cpp>|<163>|<ConnectGateway>,gateway client init ssl failed.

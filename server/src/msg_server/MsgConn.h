@@ -103,6 +103,6 @@ private:
     uint32_t        m_online_status;      //在线状态 1-online, 2-off-line, 3-leave
 };
 
-void init_msg_conn();
+void init_msg_conn(int32_t);
 
 #endif /* MSGCONN_H_ */

@@ -22,6 +22,7 @@ public:
 
 	static CGroupChat* GetInstance();
 
+	void setSystemUserID(int32_t user_id);
     void HandleClientGroupNormalRequest(CImPdu* pPdu, CMsgConn* pFromConn);
     void HandleGroupNormalResponse(CImPdu* pPdu);
     
@@ -52,6 +53,8 @@ private:
 	static CGroupChat* s_group_chat_instance;
 
 	group_map_t m_group_map;
+
+	int32_t m_system_user_id;
 };
 
 

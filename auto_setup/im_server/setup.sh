@@ -70,9 +70,9 @@ clean_yum() {
 build_im_server() {
 
 	#yum -y install yum-fastestmirror
-	clean_yum
-	yum -y install libuuid-devel
-	yum -y install apr-util-devel
+	#clean_yum
+	#yum -y install libuuid-devel
+	#yum -y install apr-util-devel
 	mkdir -p $INSTALL_DIR
 	tar zxvf $IM_SERVER.tar.gz -C $INSTALL_DIR/
 	if [ $? -eq 0 ]; then
@@ -108,6 +108,33 @@ build_im_server() {
 	fi
 }
 
+copy_config(){
+	set -x
+		cp -f ./conf/$LOGIN_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$LOGIN_SERVER/
+		cp -f ./conf/$MSG_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$MSG_SERVER/
+		cp -f ./conf/$ROUTE_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$ROUTE_SERVER/
+		cp -f ./conf/$FILE_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$FILE_SERVER/
+		cp -f ./conf/$MSFS_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$MSFS_SERVER/
+		cp -f ./conf/$HTTP_MSG_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$HTTP_MSG_SERVER/
+		cp -f ./conf/$PUSH_SERVER_CONF	$INSTALL_DIR/$IM_SERVER/$PUSH_SERVER/
+		cp -f ./conf/$DB_PROXY_SERVER_CONF $INSTALL_DIR/$IM_SERVER/$DB_PROXY_SERVER/
+
+		cd $IM_SERVER
+		chmod +x ./sync_lib_for_zip.sh
+		./sync_lib_for_zip.sh
+		cd ..
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$LOGIN_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$MSG_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$ROUTE_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$FILE_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$MSFS_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$HTTP_MSG_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$PUSH_SERVER/
+		#cp -f ./$IM_SERVER/lib/* $INSTALL_DIR/$IM_SERVER/$DB_PROXY_SERVER/
+		chmod 755 $INSTALL_DIR/$IM_SERVER/restart.sh
+	
+		set +x
+}
 run_im_server() {
 	cd $INSTALL_DIR/$IM_SERVER
 	./restart.sh $LOGIN_SERVER
@@ -124,20 +151,25 @@ print_help() {
 	echo "Usage: "
 	echo "  $0 check --- check environment"
 	echo "  $0 install --- check & run scripts to install"
+	echo "  $0 start --- start all services"
 }
 
 case $1 in
 	check)
 		print_hello $1
 		check_user
-		check_os
+	#check_os
 		;;
 	install)
 		print_hello $1
 		check_user
-		check_os
+	#check_os
 
 		build_im_server
+		run_im_server
+		;;
+	start)
+		copy_config
 		run_im_server
 		;;
 	*)

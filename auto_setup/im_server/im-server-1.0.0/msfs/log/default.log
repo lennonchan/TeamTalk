@@ -1,0 +1,89 @@
+2016-03-21 11:33:20,692 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 11:33:20,692 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.44,8700
+2016-03-21 11:33:35,500 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=99
+2016-03-21 11:35:57,572 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 11:35:57,572 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.44,8700
+2016-03-21 11:35:57,711 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=99
+2016-03-21 11:38:57,118 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 11:38:57,118 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.44,8700
+2016-03-21 11:38:57,180 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=99
+2016-03-21 11:56:40,284 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 11:56:40,284 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.46,8700
+2016-03-21 11:56:53,153 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8700
+2016-03-21 11:58:47,777 [INFO  IM] - <main.cpp>|<103>|<Stop>,receive signal:2
+2016-03-21 11:58:47,777 [INFO  IM] - <main.cpp>|<99>|<doQuitJob>,I'm ready quit...
+2016-03-21 11:59:01,797 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 11:59:01,797 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.46,8700
+2016-03-21 11:59:01,865 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8700
+2016-03-21 13:36:41,474 [INFO  IM] - <main.cpp>|<103>|<Stop>,receive signal:15
+2016-03-21 13:36:41,534 [INFO  IM] - <main.cpp>|<99>|<doQuitJob>,I'm ready quit...
+2016-03-21 13:37:13,123 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 13:37:13,123 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.46,8700
+2016-03-21 13:37:24,999 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8700
+2016-03-21 13:38:10,963 [INFO  IM] - <main.cpp>|<103>|<Stop>,receive signal:2
+2016-03-21 13:38:10,963 [INFO  IM] - <main.cpp>|<99>|<doQuitJob>,I'm ready quit...
+2016-03-21 13:41:47,970 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 13:41:47,970 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.46,8700
+2016-03-21 13:41:58,860 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8700
+2016-03-21 15:03:57,210 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.46:34104
+
+2016-03-21 15:03:57,257 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.46 access:/
+2016-03-21 15:03:57,257 [INFO  IM] - <FileManager.cpp>|<128>|<getRelatePathByUrl>,Url [] format illegal.
+2016-03-21 15:03:57,257 [INFO  IM] - <FileManager.cpp>|<138>|<getAbsPathByUrl>,Get path from url[] error
+2016-03-21 15:04:11,458 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.101:54099
+
+2016-03-21 15:04:11,458 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.101:54100
+
+2016-03-21 15:04:11,827 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/
+2016-03-21 15:04:11,827 [INFO  IM] - <FileManager.cpp>|<128>|<getRelatePathByUrl>,Url [] format illegal.
+2016-03-21 15:04:11,827 [INFO  IM] - <FileManager.cpp>|<138>|<getAbsPathByUrl>,Get path from url[] error
+2016-03-21 15:33:24,926 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 15:33:24,943 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.44,8700
+2016-03-21 15:33:38,180 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=99
+2016-03-21 15:38:32,380 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 1024
+2016-03-21 15:38:32,381 [INFO  IM] - <main.cpp>|<148>|<main>,192.168.1.46,8700
+2016-03-21 15:38:34,879 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:8700
+2016-03-21 15:44:54,788 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.101:60415
+
+2016-03-21 15:44:55,101 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/upload/
+2016-03-21 15:44:55,102 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:20160311103729.png_266x258.png
+2016-03-21 15:45:16,444 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.101:60460
+
+2016-03-21 15:45:16,707 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/upload/
+2016-03-21 15:45:16,707 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:20160311103729.png_266x258.png
+2016-03-21 15:45:17,286 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.169:45911
+
+2016-03-21 15:45:17,293 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.169 access:/g0/000/000/1458546316707857_140488397915_266x258.png
+2016-03-21 15:45:17,293 [INFO  IM] - <FileManager.cpp>|<151>|<getOrCreateEntry>,the map has the file while url:g0/000/000/1458546316707857_140488397915_266x258.png
+2016-03-21 15:45:31,129 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.169:53433
+
+2016-03-21 15:45:38,182 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.169 access:/
+2016-03-21 15:45:38,182 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:IMG_20151214_145727.jpg
+2016-03-21 15:45:38,383 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.101:60504
+
+2016-03-21 15:45:38,394 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/upload/
+2016-03-21 15:45:38,395 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:20160311103729.png_266x258.png
+2016-03-21 15:45:38,756 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.101:60507
+
+2016-03-21 15:45:38,756 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/g0/000/000/1458546338198753_140488397915.jpg
+2016-03-21 15:45:38,756 [INFO  IM] - <FileManager.cpp>|<151>|<getOrCreateEntry>,the map has the file while url:g0/000/000/1458546338198753_140488397915.jpg
+2016-03-21 15:46:08,120 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=7 from 192.168.1.169:44171
+
+2016-03-21 15:46:17,608 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.101:60584
+
+2016-03-21 15:46:17,620 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/upload/
+2016-03-21 15:46:17,621 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:20160311103729.png_266x258.png
+2016-03-21 15:46:18,181 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.169:37485
+
+2016-03-21 15:46:18,186 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.169 access:/g0/000/000/1458546377621754_140488397915_266x258.png
+2016-03-21 15:46:18,186 [INFO  IM] - <FileManager.cpp>|<151>|<getOrCreateEntry>,the map has the file while url:g0/000/000/1458546377621754_140488397915_266x258.png
+2016-03-21 15:46:30,020 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.101:60609
+
+2016-03-21 15:46:30,022 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.101 access:/upload/
+2016-03-21 15:46:30,022 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:20160311103729.png_266x258.png
+2016-03-21 15:46:31,254 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=8 from 192.168.1.169:39511
+
+2016-03-21 15:46:31,269 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.169 access:/g0/000/000/1458546390023350_140488397915_266x258.png
+2016-03-21 15:46:31,269 [INFO  IM] - <FileManager.cpp>|<151>|<getOrCreateEntry>,the map has the file while url:g0/000/000/1458546390023350_140488397915_266x258.png
+2016-03-21 15:46:34,481 [INFO  IM] - <HttpConn.cpp>|<515>|<OnRead>,IP:192.168.1.169 access:/
+2016-03-21 15:46:34,482 [INFO  IM] - <HttpConn.cpp>|<168>|<OnUpload>,upload file, file name:IMG_20151214_145727.jpg

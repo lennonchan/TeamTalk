@@ -1,0 +1,884 @@
+2016-03-18 17:31:29,483 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 17:31:29,486 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 17:31:29,486 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 17:43:33,335 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 17:43:33,347 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 17:43:33,347 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 17:43:56,862 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 17:43:56,877 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 17:43:56,877 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 21:01:46,387 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 21:01:46,392 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 21:01:46,392 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 21:22:15,200 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 21:22:15,213 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 21:22:15,213 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 21:24:11,741 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 21:24:11,754 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 21:24:11,754 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 21:48:19,589 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 21:48:19,589 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 21:48:19,589 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:11:15,700 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:11:15,723 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:11:15,724 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:11:43,198 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:11:43,198 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:11:43,198 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:25:06,983 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:25:06,983 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:25:06,983 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:25:33,363 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:25:33,363 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:25:33,363 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:29:07,909 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:29:07,909 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:29:07,909 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:29:18,101 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:29:18,101 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:29:18,101 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:36:40,359 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:36:40,382 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:36:40,382 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:49:42,928 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:49:42,961 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:49:42,961 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:56:29,059 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:56:29,078 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:56:29,078 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 22:59:45,203 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 22:59:45,214 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 22:59:45,214 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:00:15,491 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:00:15,493 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:00:15,493 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:21:55,639 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:21:55,639 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:21:55,639 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:26:31,582 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:26:31,582 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:26:31,582 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:26:34,347 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:26:34,347 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:26:34,347 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:33:27,519 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:33:27,535 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:33:27,535 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:33:44,683 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-18 23:33:44,705 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-18 23:33:44,706 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:35:35,394 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-18 23:35:35,395 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-18 23:35:35,395 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-18 23:35:35,396 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-18 23:35:35,396 [INFO  IM] - <CachePool.cpp>|<703>|<Init>,not configure cache instance: group_member
+2016-03-18 23:35:35,396 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-18 23:35:47,289 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-18 23:35:47,290 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-18 23:35:47,290 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-18 23:35:47,291 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-18 23:35:47,291 [INFO  IM] - <CachePool.cpp>|<703>|<Init>,not configure cache instance: group_member
+2016-03-18 23:35:47,291 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-21 10:29:13,258 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 10:29:13,291 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 10:29:13,292 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 10:29:13,292 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 10:29:13,293 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 10:29:13,325 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 10:29:13,325 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 10:29:13,325 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 10:53:47,354 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 10:53:47,354 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 10:53:47,354 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 10:53:47,354 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 10:53:47,354 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 10:53:47,373 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 10:53:47,373 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 10:53:47,373 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 10:55:12,262 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 10:55:12,262 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 10:55:12,262 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 10:55:12,262 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 10:55:12,263 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 10:55:12,265 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 10:55:12,265 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 10:55:12,265 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 10:56:37,405 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 10:56:37,405 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 10:56:37,405 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 10:56:37,406 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 10:56:37,406 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 10:56:37,406 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 10:56:37,406 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 10:56:37,406 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 11:10:42,482 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 11:10:42,483 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 11:10:42,483 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 11:10:42,483 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 11:10:42,483 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 11:10:42,484 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 11:10:42,484 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 11:10:42,484 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 11:17:54,297 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 11:17:54,304 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 11:17:54,304 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 11:17:54,304 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 11:17:54,304 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 11:17:54,477 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 11:17:54,503 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 11:17:54,549 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-21 11:18:48,882 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:50088
+
+2016-03-21 11:18:48,882 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50088, handle=22
+2016-03-21 11:18:48,882 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:50089
+
+2016-03-21 11:18:48,882 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50089, handle=23
+2016-03-21 11:18:48,882 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:50090
+
+2016-03-21 11:18:48,882 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50090, handle=24
+2016-03-21 11:18:48,882 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:50091
+
+2016-03-21 11:18:48,882 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50091, handle=25
+2016-03-21 11:18:48,883 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:50092
+
+2016-03-21 11:18:48,883 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50092, handle=26
+2016-03-21 11:18:48,883 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:50093
+
+2016-03-21 11:18:48,883 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50093, handle=27
+2016-03-21 11:18:48,883 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:50094
+
+2016-03-21 11:18:48,883 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50094, handle=28
+2016-03-21 11:18:48,883 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:50095
+
+2016-03-21 11:18:48,883 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50095, handle=29
+2016-03-21 11:18:49,182 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:50097
+
+2016-03-21 11:18:49,183 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50097, handle=30
+2016-03-21 11:18:49,183 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:50098
+
+2016-03-21 11:18:49,183 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50098, handle=31
+2016-03-21 11:18:49,183 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:50099
+
+2016-03-21 11:18:49,183 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50099, handle=32
+2016-03-21 11:18:49,183 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:50100
+
+2016-03-21 11:18:49,183 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50100, handle=33
+2016-03-21 11:20:11,543 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 11:20:12,612 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 11:20:12,615 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458314362, userCnt=1
+2016-03-21 11:20:12,707 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 11:20:12,987 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=0, count=0
+2016-03-21 11:20:14,585 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 11:21:40,238 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qll request login.
+2016-03-21 11:21:40,239 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:21:49,030 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qll request login.
+2016-03-21 11:21:49,031 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:21:57,198 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qll request login.
+2016-03-21 11:21:57,199 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:21:58,762 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qll request login.
+2016-03-21 11:21:58,763 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:23:31,160 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 11:23:31,286 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-21 11:23:31,296 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530575, userCnt=2
+2016-03-21 11:23:31,296 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=0, count=0
+2016-03-21 11:23:31,313 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 11:23:31,313 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 11:23:34,365 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 11:23:36,274 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 3 and 2
+2016-03-21 11:23:36,274 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=3, peerId=2, msgId=99999999, msgCnt=54, count=0
+2016-03-21 11:23:38,643 [INFO  IM] - <RelationModel.cpp>|<142>|<addRelation>,reset msgId failed. smallId=2, bigId=3.
+2016-03-21 11:23:38,678 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=1, msgId=1, sessionId=2
+2016-03-21 11:23:38,683 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 11:23:38,919 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=2, userCnt=1
+2016-03-21 11:23:44,857 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 11:29:14,624 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 11:29:14,643 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-21 11:29:14,644 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530884, userCnt=3
+2016-03-21 11:29:14,673 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 11:29:15,675 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=0, count=1
+2016-03-21 11:29:15,770 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 11:29:44,016 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=3, peerId=2, msgId=1, msgCnt=10, count=1
+2016-03-21 11:30:00,189 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=3, peerId=2, msgId=1, msgCnt=10, count=1
+2016-03-21 11:30:13,666 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=1, msgId=2, sessionId=1
+2016-03-21 11:30:13,668 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 11:30:13,894 [INFO  IM] - <UserModel.cpp>|<265>|<clearUserCounter>,hdel failed 2->3
+2016-03-21 11:30:13,894 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=2, peerId=3, type=1
+2016-03-21 11:30:14,109 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 11:30:47,171 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 11:30:47,184 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458531013, count=0
+2016-03-21 11:30:52,188 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 11:30:52,206 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458531013, count=0
+2016-03-21 11:31:27,225 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 11:31:27,239 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458531013, count=0
+2016-03-21 11:31:56,351 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 11:31:56,379 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 11:31:56,380 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 11:31:56,381 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=3
+2016-03-21 11:31:56,627 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458531013, count=0
+2016-03-21 11:31:56,632 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 11:31:58,676 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=3, msgId=2, msgCnt=10, count=2
+2016-03-21 11:32:45,072 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,minjia request login.
+2016-03-21 11:32:45,073 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:32:46,495 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,minjia request login.
+2016-03-21 11:32:46,496 [INFO  IM] - <Login.cpp>|<131>|<doLogin>,get result false
+2016-03-21 11:33:01,105 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 11:33:01,118 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=4, last_update=1458311735, cnt=1
+2016-03-21 11:33:01,118 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=4,nLastUpdate=1458530274, last_time=1458530884, userCnt=3
+2016-03-21 11:33:01,119 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=4, count=0
+2016-03-21 11:33:02,190 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=4, last_time=0, count=0
+2016-03-21 11:33:02,203 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=4, unreadCnt=0, totalCount=0
+2016-03-21 11:33:12,726 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:33:12,727 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:33:33,606 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:33:33,606 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:21,510 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:21,510 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=4294967295, msgCnt=10, count=0
+2016-03-21 11:34:28,842 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:28,842 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:30,543 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:30,544 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:31,389 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:31,389 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:31,822 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:31,822 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:32,190 [INFO  IM] - <MessageModel.cpp>|<105>|<getMessage>,no relation between 4 and 2
+2016-03-21 11:34:32,190 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-21 11:34:40,995 [INFO  IM] - <RelationModel.cpp>|<142>|<addRelation>,reset msgId failed. smallId=2, bigId=4.
+2016-03-21 11:34:41,012 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=4, toId=2, type=1, msgId=1, sessionId=4
+2016-03-21 11:34:41,020 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 11:37:36,071 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=4, peerId=2, msgId=1, msgCnt=10, count=1
+2016-03-21 11:40:14,047 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=4, peerId=2, type=1
+2016-03-21 11:40:44,253 [INFO  IM] - <GroupAction.cpp>|<49>|<createGroup>,createGroup.2 create ceui, userCnt=3
+2016-03-21 11:40:44,301 [INFO  IM] - <GroupModel.cpp>|<78>|<createGroup>,reset msgId failed. groupId=1
+2016-03-21 11:40:44,389 [INFO  IM] - <GroupAction.cpp>|<69>|<createGroup>,createGroup.2 create ceui, userCnt=3, result:0
+2016-03-21 11:40:47,326 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=1, msgId=0, msgCnt=10, count=0
+2016-03-21 11:40:49,900 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=1, type=17, msgId=1, sessionId=5
+2016-03-21 11:40:49,914 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-21 11:40:50,017 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 11:40:50,018 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=3, resCnt=0
+2016-03-21 11:40:50,139 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:40:50,153 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:40:50,170 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:41:03,070 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:41:03,150 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:41:24,486 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=3, peerId=2, msgId=2, msgCnt=10, count=2
+2016-03-21 11:41:34,674 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=1, type=17, msgId=2, sessionId=6
+2016-03-21 11:41:34,677 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:41:34,698 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 11:41:34,709 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=3, resCnt=0
+2016-03-21 11:41:34,826 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:41:34,953 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=2, type=2
+2016-03-21 11:41:46,924 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=1, type=17, msgId=3, sessionId=6
+2016-03-21 11:41:46,935 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:41:46,947 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 11:41:46,947 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=3, resCnt=0
+2016-03-21 11:41:47,103 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:41:47,412 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=2, type=2
+2016-03-21 11:47:39,233 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=1, type=17, msgId=4, sessionId=5
+2016-03-21 11:47:39,237 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-21 11:47:39,258 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 11:47:39,268 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=3, resCnt=0
+2016-03-21 11:47:39,356 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:48:56,450 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=1, msgId=4, msgCnt=10, count=4
+2016-03-21 11:48:56,672 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:48:56,746 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:49:03,129 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=1, type=17, msgId=5, sessionId=5
+2016-03-21 11:49:03,138 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-21 11:49:03,150 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 11:49:03,161 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=3, resCnt=0
+2016-03-21 11:49:03,248 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:49:03,354 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:49:03,362 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 11:49:06,888 [INFO  IM] - <GroupAction.cpp>|<280>|<setGroupPush>,userId=2, groupId=1, result=0
+2016-03-21 11:49:41,894 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=4, msgId=1, msgCnt=10, count=1
+2016-03-21 11:49:59,004 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:49:59,122 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=1, msgId=3, sessionId=1
+2016-03-21 11:49:59,129 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 11:49:59,175 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 11:50:09,356 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 12:08:12,245 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 12:08:12,833 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530610, userCnt=0
+2016-03-21 12:08:12,845 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 12:08:12,845 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 12:08:12,845 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 12:08:12,846 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 12:08:13,066 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458532197, count=1
+2016-03-21 12:08:13,103 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 12:31:15,106 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 12:31:15,145 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 12:31:15,145 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 12:31:15,146 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530610, userCnt=0
+2016-03-21 12:31:15,147 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 12:31:15,155 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 12:31:15,156 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458532197, count=1
+2016-03-21 12:31:15,206 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 12:31:19,620 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 12:31:19,634 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458532198, count=0
+2016-03-21 12:31:19,636 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-21 12:31:19,636 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 12:31:19,638 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 12:31:19,737 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 12:31:25,239 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 12:31:25,253 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458532198, count=0
+2016-03-21 12:31:25,275 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 12:31:25,276 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 12:31:25,276 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 12:31:25,697 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 12:36:09,802 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50088
+2016-03-21 12:36:09,929 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50089
+2016-03-21 12:36:09,929 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50090
+2016-03-21 12:36:09,929 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50091
+2016-03-21 12:36:09,929 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50092
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50093
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50094
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50095
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50097
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50098
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50099
+2016-03-21 12:36:09,930 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:50100
+2016-03-21 12:36:10,168 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:50474
+
+2016-03-21 12:36:10,168 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50474, handle=22
+2016-03-21 12:36:10,168 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:50475
+
+2016-03-21 12:36:10,168 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50475, handle=23
+2016-03-21 12:36:10,168 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:50476
+
+2016-03-21 12:36:10,168 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50476, handle=24
+2016-03-21 12:36:10,168 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:50477
+
+2016-03-21 12:36:10,168 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50477, handle=25
+2016-03-21 12:36:10,476 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:50482
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50482, handle=26
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:50483
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50483, handle=27
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:50484
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50484, handle=28
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:50485
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50485, handle=29
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:50486
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50486, handle=30
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:50487
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50487, handle=31
+2016-03-21 12:36:10,477 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:50488
+
+2016-03-21 12:36:10,477 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50488, handle=32
+2016-03-21 12:36:10,478 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:50490
+
+2016-03-21 12:36:10,478 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:50490, handle=33
+2016-03-21 12:36:11,953 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 12:36:11,967 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458532198, count=0
+2016-03-21 12:36:11,969 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-21 12:36:11,969 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 12:36:11,970 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 12:36:12,074 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 12:36:12,492 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 12:36:12,495 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458532198, count=0
+2016-03-21 12:36:12,496 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 12:36:12,497 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 12:36:12,498 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 12:36:12,500 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 12:36:15,383 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 12:36:15,407 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 12:36:15,407 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 12:36:15,409 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530610, userCnt=0
+2016-03-21 12:36:15,410 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 12:36:15,413 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458532197, count=1
+2016-03-21 12:36:15,415 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 12:36:15,433 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:24:39,428 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:25:06,920 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:25:14,104 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:25:14,312 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=1, msgId=4, sessionId=1
+2016-03-21 13:25:14,324 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 13:25:14,367 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:25:19,896 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 13:25:46,987 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=3, msgId=4, msgCnt=10, count=4
+2016-03-21 13:28:38,307 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:28:38,487 [INFO  IM] - <HttpClient.cpp>|<156>|<UploadByteFile>,json parse failed: 
+2016-03-21 13:28:38,487 [INFO  IM] - <AudioModel.cpp>|<176>|<saveAudioInfo>,upload file failed
+2016-03-21 13:28:38,569 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=2, msgId=5, sessionId=1
+2016-03-21 13:28:38,572 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 13:28:38,862 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:28:38,980 [INFO  IM] - <UserModel.cpp>|<265>|<clearUserCounter>,hdel failed 3->2
+2016-03-21 13:28:38,981 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 13:28:49,878 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 13:36:24,772 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 13:36:25,041 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530610, userCnt=0
+2016-03-21 13:36:25,042 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 13:36:25,042 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 13:36:25,392 [INFO  IM] - <DBPool.cpp>|<360>|<GetDBConn>,new db connection: teamtalk_slave, conn_cnt: 3
+2016-03-21 13:36:25,394 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 13:36:25,411 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458538116, count=1
+2016-03-21 13:36:25,419 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 13:36:25,454 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 14:06:14,724 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 14:15:15,983 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 14:15:16,154 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 14:15:16,342 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-21 14:15:16,358 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 14:15:16,531 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 14:15:16,550 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 14:15:16,551 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 14:15:16,589 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458538118, count=0
+2016-03-21 14:15:16,597 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 14:15:16,610 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 14:15:17,110 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=0
+2016-03-21 14:15:17,182 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 14:16:37,529 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 14:16:37,542 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=0
+2016-03-21 14:16:37,546 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 14:16:37,549 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 14:16:37,549 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 14:16:37,660 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 14:23:05,948 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=3, peerId=2, msgId=97878065, msgCnt=54, count=4
+2016-03-21 14:23:17,453 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 14:34:48,305 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 14:35:01,377 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 14:35:14,764 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 14:35:33,160 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 14:51:16,311 [INFO  IM] - <UserAction.cpp>|<64>|<getUserInfo>,userId=3, userCnt=1
+2016-03-21 15:12:48,819 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 15:12:49,040 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 15:12:49,040 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 15:12:51,454 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458530274, last_time=1458530610, userCnt=0
+2016-03-21 15:12:51,612 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 15:12:51,700 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 15:12:51,701 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458538116, count=1
+2016-03-21 15:12:51,830 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:13:08,502 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 15:13:08,521 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 15:13:08,523 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 15:13:08,865 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=0
+2016-03-21 15:13:08,878 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458530274, last_time=1458530884, userCnt=0
+2016-03-21 15:13:08,968 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 15:20:04,097 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:20:04,097 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:20:04,097 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:20:04,098 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:20:04,115 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:20:04,214 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:20:04,214 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:20:04,214 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:23:45,280 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:23:45,281 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:23:45,281 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:23:45,282 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:23:45,282 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:23:45,297 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:23:45,310 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:23:45,310 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:27:01,204 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:27:01,205 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:27:01,205 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:27:01,206 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:27:01,206 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:27:01,283 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:27:01,283 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:27:01,283 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:27:40,113 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:27:40,114 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:27:40,114 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:27:40,114 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:27:40,114 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:27:40,144 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:27:40,144 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:27:40,144 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:28:13,808 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:28:13,809 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:28:13,809 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:28:13,810 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:28:13,811 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:28:13,856 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:28:13,856 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:28:13,856 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:29:49,621 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:29:49,622 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:29:49,622 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:29:49,622 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:29:49,622 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:29:49,623 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Can't connect to MySQL server on '192.168.1.46' (111)
+2016-03-21 15:29:49,623 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2016-03-21 15:29:49,623 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2016-03-21 15:32:12,927 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:32:12,927 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:32:12,927 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:32:12,927 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:32:12,927 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:32:13,626 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 15:32:13,723 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 15:32:13,840 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-21 15:32:35,960 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:32:35,960 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:32:35,960 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:32:35,960 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:32:35,960 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:32:36,216 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 15:32:36,302 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 15:32:36,313 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-21 15:32:54,025 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:32:54,025 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:32:54,025 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:32:54,026 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:32:54,026 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:32:54,093 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 15:32:54,112 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 15:32:54,115 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-21 15:32:57,985 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:51920
+
+2016-03-21 15:32:57,985 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51920, handle=22
+2016-03-21 15:32:57,985 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:51921
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51921, handle=23
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:51922
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51922, handle=24
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:51923
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51923, handle=25
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:51926
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51926, handle=26
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:51927
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51927, handle=27
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:51928
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51928, handle=28
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:51929
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51929, handle=29
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:51930
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51930, handle=30
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:51931
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51931, handle=31
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:51932
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51932, handle=32
+2016-03-21 15:32:57,986 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:51933
+
+2016-03-21 15:32:57,986 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51933, handle=33
+2016-03-21 15:36:22,829 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:36:22,839 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:36:22,840 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:36:22,840 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:36:22,840 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:36:23,095 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 15:36:23,198 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 15:36:23,327 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2016-03-21 15:36:53,757 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-21 15:36:53,758 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-21 15:36:53,758 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-21 15:36:53,759 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-21 15:36:53,759 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-21 15:36:53,825 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-21 15:36:53,830 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-21 15:36:53,844 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-21 15:36:57,287 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:51995
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51995, handle=22
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:51996
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51996, handle=23
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:51997
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51997, handle=24
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:51998
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51998, handle=25
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:51999
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:51999, handle=26
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:52000
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52000, handle=27
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:52001
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52001, handle=28
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:52002
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52002, handle=29
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:52005
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52005, handle=30
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:52006
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52006, handle=31
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:52007
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52007, handle=32
+2016-03-21 15:36:57,288 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:52008
+
+2016-03-21 15:36:57,288 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:52008, handle=33
+2016-03-21 15:44:37,387 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-21 15:44:37,487 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-21 15:44:37,676 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458545813, last_time=1458543068, userCnt=2
+2016-03-21 15:44:38,177 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-21 15:44:38,253 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=0
+2016-03-21 15:44:38,620 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-21 15:44:51,029 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 15:44:51,049 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 15:44:51,049 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 15:44:51,057 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458545813, last_time=1458543068, userCnt=2
+2016-03-21 15:44:51,063 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 15:44:51,082 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 15:44:51,154 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458538116, count=1
+2016-03-21 15:44:51,181 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:44:51,501 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=3, msgId=5, msgCnt=10, count=4
+2016-03-21 15:44:55,528 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=3, type=1, msgId=6, sessionId=2
+2016-03-21 15:44:55,534 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 15:44:55,677 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:45:00,892 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=2, peerId=3, type=1
+2016-03-21 15:45:12,756 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=3, type=1, msgId=7, sessionId=2
+2016-03-21 15:45:12,767 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 15:45:13,002 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:45:13,056 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=2, peerId=3, type=1
+2016-03-21 15:45:16,867 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=3, type=1, msgId=8, sessionId=2
+2016-03-21 15:45:16,873 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 15:45:16,968 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:45:16,994 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=2, peerId=3, type=1
+2016-03-21 15:45:28,757 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:45:35,352 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=4, msgId=1, msgCnt=10, count=1
+2016-03-21 15:45:38,554 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=2, type=1, msgId=9, sessionId=1
+2016-03-21 15:45:38,563 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 15:45:38,604 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:45:38,898 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=3, peerId=2, type=1
+2016-03-21 15:45:38,997 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=4, type=1, msgId=2, sessionId=4
+2016-03-21 15:45:39,004 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-21 15:46:05,470 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:46:12,156 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=1, msgId=5, msgCnt=10, count=5
+2016-03-21 15:46:17,798 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=1, type=17, msgId=6, sessionId=5
+2016-03-21 15:46:17,806 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-21 15:46:17,807 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 15:46:17,807 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=2, resCnt=0
+2016-03-21 15:46:18,103 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:46:18,105 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 15:46:30,163 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=1, type=17, msgId=7, sessionId=5
+2016-03-21 15:46:30,170 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-21 15:46:30,171 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 15:46:30,171 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=2, resCnt=0
+2016-03-21 15:46:32,235 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=3, type=2
+2016-03-21 15:46:32,235 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:46:34,683 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=3, toId=1, type=17, msgId=8, sessionId=6
+2016-03-21 15:46:34,695 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:46:34,706 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=1, count=3
+2016-03-21 15:46:34,707 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=2, resCnt=0
+2016-03-21 15:46:34,789 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-21 15:46:34,886 [INFO  IM] - <MessageCounter.cpp>|<80>|<clearUnreadMsgCounter>,userId=1, peerId=2, type=2
+2016-03-21 15:53:51,016 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-21 15:53:51,591 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-21 15:53:51,591 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458530610, cnt=0
+2016-03-21 15:53:51,591 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458545813, last_time=1458546290, userCnt=0
+2016-03-21 15:53:51,592 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-21 15:53:51,593 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=1458546390, count=1
+2016-03-21 15:53:51,594 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-21 15:53:51,687 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-22 10:40:37,106 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:40:37,128 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:40:37,128 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:41:11,660 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:41:11,676 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:41:11,677 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:41:25,019 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:41:25,074 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:41:25,074 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:41:59,531 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:41:59,531 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:41:59,531 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:42:24,855 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:42:24,855 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:42:24,855 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:42:41,433 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:42:41,433 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:42:41,433 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:44:21,188 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:44:21,188 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:44:21,188 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:44:26,705 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2016-03-22 10:44:26,705 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2016-03-22 10:44:26,705 [INFO  IM] - <db_proxy_server.cpp>|<55>|<main>,CacheManager init failed
+2016-03-22 10:47:25,421 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-22 10:47:25,422 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-22 10:47:25,422 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-22 10:47:25,422 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-22 10:47:25,422 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-22 10:47:26,044 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-22 10:47:26,065 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-22 10:47:26,104 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-22 10:47:47,859 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:46287
+
+2016-03-22 10:47:47,859 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46287, handle=22
+2016-03-22 10:47:47,859 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:46288
+
+2016-03-22 10:47:47,859 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46288, handle=23
+2016-03-22 10:47:47,859 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:46289
+
+2016-03-22 10:47:47,859 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46289, handle=24
+2016-03-22 10:47:47,859 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:46290
+
+2016-03-22 10:47:47,859 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46290, handle=25
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:46292
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46292, handle=26
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:46293
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46293, handle=27
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:46294
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46294, handle=28
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:46295
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46295, handle=29
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:46296
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46296, handle=30
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:46297
+
+2016-03-22 10:47:48,362 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46297, handle=31
+2016-03-22 10:47:48,362 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:46298
+
+2016-03-22 10:47:48,363 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46298, handle=32
+2016-03-22 10:47:48,363 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:46299
+
+2016-03-22 10:47:48,363 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:46299, handle=33
+2016-03-22 10:49:51,168 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-22 10:49:51,396 [INFO  IM] - <DBPool.cpp>|<360>|<GetDBConn>,new db connection: teamtalk_slave, conn_cnt: 3
+2016-03-22 10:49:51,397 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458614846, last_time=1458543068, userCnt=1
+2016-03-22 10:49:51,493 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-22 10:49:51,763 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-22 10:49:52,020 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=3
+2016-03-22 10:49:52,196 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-22 11:16:34,656 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-22 11:16:34,788 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458311735, cnt=1
+2016-03-22 11:16:34,791 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458614846, last_time=1458543068, userCnt=3
+2016-03-22 11:16:34,797 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=0, count=2
+2016-03-22 11:16:34,802 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-22 11:16:34,802 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=0, totalCount=0
+2016-03-22 11:16:34,925 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46292
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46293
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46294
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46295
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46296
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46297
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46298
+2016-03-22 12:09:00,109 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46299
+2016-03-22 12:09:01,104 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46287
+2016-03-22 12:09:01,104 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46288
+2016-03-22 12:09:01,104 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46289
+2016-03-22 12:09:01,104 [INFO  IM] - <ProxyConn.cpp>|<194>|<OnTimer>,proxy connection timeout 192.168.1.46:46290
+2016-03-23 14:47:44,030 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2016-03-23 14:47:44,067 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2016-03-23 14:47:44,067 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2016-03-23 14:47:44,068 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2016-03-23 14:47:44,068 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2016-03-23 14:47:44,866 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2016-03-23 14:47:44,866 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2016-03-23 14:47:44,884 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 192.168.1.46:10600
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=22 from 192.168.1.46:38744
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38744, handle=22
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=23 from 192.168.1.46:38745
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38745, handle=23
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=24 from 192.168.1.46:38746
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38746, handle=24
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=25 from 192.168.1.46:38747
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38747, handle=25
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=26 from 192.168.1.46:38748
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38748, handle=26
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=27 from 192.168.1.46:38749
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38749, handle=27
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=28 from 192.168.1.46:38750
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38750, handle=28
+2016-03-23 14:47:47,367 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=29 from 192.168.1.46:38751
+
+2016-03-23 14:47:47,367 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38751, handle=29
+2016-03-23 14:47:47,685 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:38754
+
+2016-03-23 14:47:47,685 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38754, handle=30
+2016-03-23 14:47:47,685 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:38755
+
+2016-03-23 14:47:47,685 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38755, handle=31
+2016-03-23 14:47:47,685 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:38756
+
+2016-03-23 14:47:47,685 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38756, handle=32
+2016-03-23 14:47:47,685 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:38757
+
+2016-03-23 14:47:47,685 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38757, handle=33
+2016-03-23 14:49:14,803 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-23 14:49:14,907 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458715664, last_time=1458543068, userCnt=1
+2016-03-23 14:49:14,975 [INFO  IM] - <DBPool.cpp>|<360>|<GetDBConn>,new db connection: teamtalk_slave, conn_cnt: 3
+2016-03-23 14:49:14,987 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-23 14:49:15,086 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-23 14:49:15,208 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458538118, count=3
+2016-03-23 14:49:15,359 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-23 14:50:25,580 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=3, msgId=9, msgCnt=10, count=8
+2016-03-23 14:50:33,188 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=3, msgId=9, msgCnt=10, count=8
+2016-03-23 14:50:35,770 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=3, type=1, msgId=10, sessionId=2
+2016-03-23 14:50:35,776 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=1, resCnt=0
+2016-03-23 14:51:35,277 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-23 14:51:35,283 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458715835, count=0
+2016-03-23 14:51:35,286 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-23 14:51:35,289 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458715664, last_time=1458543068, userCnt=1
+2016-03-23 14:51:35,297 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-23 14:51:35,365 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-23 14:51:54,025 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-23 14:51:54,032 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458715835, count=0
+2016-03-23 14:51:54,035 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-23 14:51:54,038 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-23 14:51:54,039 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458715664, last_time=1458543068, userCnt=1
+2016-03-23 14:51:54,130 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-23 14:52:49,437 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=30 from 192.168.1.46:38804
+
+2016-03-23 14:52:49,437 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38804, handle=30
+2016-03-23 14:52:49,437 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=31 from 192.168.1.46:38805
+
+2016-03-23 14:52:49,437 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38805, handle=31
+2016-03-23 14:52:49,437 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=32 from 192.168.1.46:38806
+
+2016-03-23 14:52:49,437 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38806, handle=32
+2016-03-23 14:52:49,438 [INFO  IM] - <BaseSocket.cpp>|<329>|<_AcceptNewSocket>,AcceptNewSocket, socket=33 from 192.168.1.46:38807
+
+2016-03-23 14:52:49,438 [INFO  IM] - <ProxyConn.cpp>|<141>|<OnConnect>,connect from 192.168.1.46:38807, handle=33
+2016-03-23 14:52:56,297 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,qinll request login.
+2016-03-23 14:52:56,299 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=2, last_time=1458715835, count=0
+2016-03-23 14:52:56,300 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=2, last_update=1458311735, cnt=1
+2016-03-23 14:52:56,301 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=2,nLastUpdate=1458715664, last_time=1458543068, userCnt=1
+2016-03-23 14:52:56,301 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=2, count=0
+2016-03-23 14:52:56,495 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=2, unreadCnt=0, totalCount=0
+2016-03-23 14:53:23,691 [INFO  IM] - <GroupAction.cpp>|<49>|<createGroup>,createGroup.2 create 1111, userCnt=2
+2016-03-23 14:53:23,701 [INFO  IM] - <GroupModel.cpp>|<78>|<createGroup>,reset msgId failed. groupId=2
+2016-03-23 14:53:23,733 [INFO  IM] - <GroupAction.cpp>|<69>|<createGroup>,createGroup.2 create 1111, userCnt=2, result:0
+2016-03-23 15:06:27,771 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-23 15:06:30,457 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-23 15:06:31,372 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-23 15:07:41,366 [INFO  IM] - <Login.cpp>|<92>|<doLogin>,?????? request login.
+2016-03-23 15:07:41,390 [INFO  IM] - <DepartModel.cpp>|<58>|<getDepts>,list is empty
+2016-03-23 15:07:41,390 [INFO  IM] - <DepartAction.cpp>|<43>|<getChgedDepart>,userId=3, last_update=1458616593, cnt=0
+2016-03-23 15:07:41,404 [INFO  IM] - <UserModel.cpp>|<83>|<getUsers>,list is empty
+2016-03-23 15:07:41,405 [INFO  IM] - <UserAction.cpp>|<115>|<getChangedUser>,userId=3,nLastUpdate=1458715664, last_time=1458616593, userCnt=0
+2016-03-23 15:07:41,405 [INFO  IM] - <GroupAction.cpp>|<115>|<getNormalGroupList>,getNormalGroupList. userId=3, count=0
+2016-03-23 15:07:41,407 [INFO  IM] - <RecentSession.cpp>|<64>|<getRecentSession>,userId=3, last_time=0, count=2
+2016-03-23 15:07:41,407 [INFO  IM] - <MessageCounter.cpp>|<57>|<getUnreadMsgCounter>,userId=3, unreadCnt=1, totalCount=1
+2016-03-23 15:07:41,439 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-23 15:09:03,950 [INFO  IM] - <MessageContent.cpp>|<72>|<getMessage>,userId=2, peerId=2, msgId=0, msgCnt=10, count=0
+2016-03-23 15:09:14,275 [INFO  IM] - <MessageContent.cpp>|<234>|<sendMessage>,fromId=2, toId=2, type=17, msgId=1, sessionId=8
+2016-03-23 15:09:14,279 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=2, requestCount=1
+2016-03-23 15:09:14,279 [INFO  IM] - <GroupAction.cpp>|<334>|<getGroupPush>,groupId=2, count=2
+2016-03-23 15:09:14,280 [INFO  IM] - <MessageCounter.cpp>|<267>|<getDevicesToken>,req devices token.reqCnt=2, resCnt=0
+2016-03-23 15:09:14,426 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=1
+2016-03-23 15:09:14,443 [INFO  IM] - <GroupAction.cpp>|<177>|<getGroupInfo>,userId=3, requestCount=2

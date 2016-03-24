@@ -135,9 +135,9 @@ modify_php() {
 }
 
 build_zlib() {
-	clean_yum
 
-	yum -y install zlib-devel
+
+	sudo apt-get install zlib1g.dev
 	if [ $? -eq 0 ]; then
 		echo "yum install zlib-devel successed."
 	else
@@ -147,8 +147,8 @@ build_zlib() {
 }
 
 build_jpeg() {
-	clean_yum
-	yum -y install libjpeg-devel
+	sudo apt-get
+	sudo apt-get install libjpeg-devel
 	if [ $? -eq 0 ]; then
 		echo "yum install libjpeg-devel successed."
 	else
@@ -158,8 +158,8 @@ build_jpeg() {
 }
 
 build_freetype() {
-	clean_yum
-	yum -y install freetype-devel
+	sudo apt-get
+	sudo apt-get install freetype-devel
 	if [ $? -eq 0 ]; then
 		echo "yum install freetype-devel successed."
 	else
@@ -169,8 +169,8 @@ build_freetype() {
 }
 
 build_png() {
-	clean_yum
-	yum -y install libpng-devel
+	sudo apt-get
+	sudo apt-get install libpng-devel
 	if [ $? -eq 0 ]; then
 		echo "yum install libpng-devel successed."
 	else
@@ -181,8 +181,8 @@ build_png() {
 
 
 build_gd() {
-	clean_yum
-	yum -y install php-gd
+	sudo apt-get
+	sudo apt-get install php-gd
 	if [ $? -eq 0 ]; then
 		echo "yum install php-gd successed."
 	else
@@ -192,8 +192,8 @@ build_gd() {
 }
 
 build_xml() {
-	clean_yum
-	yum -y install libxml2-devel
+	sudo apt-get
+	sudo apt-get install libxml2-devel
 	if [ $? -eq 0 ]; then
 		echo "yum install libxml2-devel successed."
 	else
@@ -203,8 +203,8 @@ build_xml() {
 }
 
 build_curl() {
-	clean_yum
-	yum -y install curl-devel
+	sudo apt-get
+	sudo apt-get install curl-devel
 	if [ $? -eq 0 ]; then
 		echo "yum install curl-devel successed."
 	else
@@ -215,7 +215,7 @@ build_curl() {
 
 build_all()
 {
-	#yum -y install yum-fastestmirror
+	#sudo apt-get install yum-fastestmirror
 
 	build_zlib
 	if [ $? -eq 0 ]; then
@@ -225,7 +225,7 @@ build_all()
 		exit 1
 	fi
 
-	build_jpeg
+	#build_jpeg
 	if [ $? -eq 0 ]; then
 		echo "build jpeg successed."
 	else
@@ -233,7 +233,7 @@ build_all()
 		exit 1
 	fi
 
-	build_freetype
+	#build_freetype
 	if [ $? -eq 0 ]; then
 		echo "build freetype successed."
 	else
@@ -241,7 +241,7 @@ build_all()
 		exit 1
 	fi
 
-	build_png
+	#build_png
 	if [ $? -eq 0 ]; then
 		echo "build png successed."
 	else
@@ -249,7 +249,7 @@ build_all()
 		exit 1
 	fi
 
-	build_gd
+	#build_gd
 	if [ $? -eq 0 ]; then
 		echo "build gd successed."
 	else
@@ -257,7 +257,7 @@ build_all()
 		exit 1
 	fi
 
-	build_xml
+	#build_xml
 	if [ $? -eq 0 ]; then
 		echo "build xml successed."
 	else
@@ -265,7 +265,7 @@ build_all()
 		exit 1
 	fi
 
-	build_curl
+	#build_curl
 	if [ $? -eq 0 ]; then
 		echo "build curl successed."
 	else
@@ -273,14 +273,14 @@ build_all()
 		exit 1
 	fi
 
-	download $PHP.tar.gz $PHP_DOWNLOAD_PATH
+	#download $PHP.tar.gz $PHP_DOWNLOAD_PATH
 	if [ $? -eq 1 ]; then
   		exit 1;
 	fi
 
-	mkdir -p $INSTALL_DIR
+	#mkdir -p $INSTALL_DIR
 
-	build_php
+	#build_php
 	if [ $? -eq 1 ]; then
 		exit 1
 	fi  
@@ -291,22 +291,27 @@ print_help() {
 	echo "Usage: "
 	echo "  $0 check --- check environment"
 	echo "  $0 install --- check & run scripts to install"
+	echo "  $0 start --- run php"
 }
 
 case $1 in
 	check)
 		print_hello $1
 		check_user
-		check_os
+		#check_os
 		check_run
 		;;
 	install)
-		print_hello	$1
-		check_user
-		check_os
-		check_run
+		#print_hello	$1
+		#check_user
+		#check_os
+		#check_run
 		build_all
 		;;
+	start)
+		modify_php
+		;;
+
 	*)
 		print_help
 		;;

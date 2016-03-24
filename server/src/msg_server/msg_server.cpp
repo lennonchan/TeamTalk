@@ -56,6 +56,13 @@ int main(int argc, char* argv[])
 	char* ip_addr2 = config_file.GetConfigName("IpAddr2");	// 网通IP
 	char* str_max_conn_cnt = config_file.GetConfigName("MaxConnCnt");
     char* str_aes_key = config_file.GetConfigName("aesKey");
+
+    char* str_system_user_id = config_file.GetConfigName("systemUid");
+    int32_t system_user_id = -1;
+	if (str_system_user_id) {
+		system_user_id  = atoi(str_system_user_id);
+	}
+
 	uint32_t db_server_count = 0;
 	serv_info_t* db_server_list = read_server_config(&config_file, "DBServerIP", "DBServerPort", db_server_count);
 
@@ -130,7 +137,8 @@ int main(int argc, char* argv[])
 
 	printf("server start listen on: %s:%d\n", listen_ip, listen_port);
 
-	init_msg_conn();
+	log("main, system_user_id=%d", system_user_id);
+	init_msg_conn(system_user_id);
 
     init_file_serv_conn(file_server_list, file_server_count);
 

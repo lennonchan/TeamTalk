@@ -89,8 +89,7 @@ static void signal_handler_hup(int sig_no)
 		exit(0);
 	}
 }
-
-void init_msg_conn()
+void init_msg_conn(int32_t user_id = -1)
 {
 	g_last_stat_tick = get_tick_count();
 	signal(SIGUSR1, signal_handler_usr1);
@@ -99,6 +98,7 @@ void init_msg_conn()
 	netlib_register_timer(msg_conn_timer_callback, NULL, 1000);
 	s_file_handler = CFileHandler::getInstance();
 	s_group_chat = CGroupChat::GetInstance();
+    s_group_chat->setSystemUserID(user_id);
 }
 
 ////////////////////////////

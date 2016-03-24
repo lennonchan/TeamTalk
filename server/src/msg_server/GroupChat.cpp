@@ -24,9 +24,15 @@ CGroupChat* CGroupChat::GetInstance()
 {
 	if (!s_group_chat_instance) {
 		s_group_chat_instance = new CGroupChat();
+        s_group_chat_instance->m_system_user_id = -1;
 	}
 
 	return s_group_chat_instance;
+}
+
+void CGroupChat::setSystemUserID(int32_t user_id){
+    log("setSystemUserID, user_id=%d", user_id);
+    this->m_system_user_id = user_id;
 }
 
 void CGroupChat::HandleClientGroupNormalRequest(CImPdu* pPdu, CMsgConn* pFromConn)
@@ -305,6 +311,11 @@ void CGroupChat::HandleClientGroupCreateRequest(CImPdu* pPdu, CMsgConn* pFromCon
 	uint32_t user_cnt = msg.member_id_list_size();
 	log("HandleClientGroupCreateRequest, req_id=%u, group_name=%s, avatar_url=%s, user_cnt=%u ",
 			req_user_id, group_name.c_str(), group_avatar.c_str(), user_cnt);
+    if(this->m_system_user_id >= 0){
+        msg.add_member_id_list( this->m_system_user_id);
+    }
+    log("HandleClientGroupCreateRequest, req_id=%u, group_name=%s, avatar_url=%s, user_cnt=%u ",
+            req_user_id, group_name.c_str(), group_avatar.c_str(), user_cnt);
 
 	CDBServConn* pDbConn = get_db_serv_conn();
 	if (pDbConn) {

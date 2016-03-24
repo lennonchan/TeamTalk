@@ -23,7 +23,7 @@ MARIADB_COMPAT_DOWNLOAD_PATH=http://sfo1.mirrors.digitalocean.com/mariadb/mariad
 
 IM_SQL=ttopen.sql
 MYSQL_CONF=my.cnf
-MYSQL_PASSWORD=12345
+MYSQL_PASSWORD=111111
 
 CENTOS_VERSION=6
 

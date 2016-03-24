@@ -152,15 +152,18 @@ case $1 in
 	check)
 		print_hello $1
 		check_user
-		check_os
+		#check_os
 		check_run
 		;;
 	install)
 		print_hello $1
 		check_user
-		check_os
+		#check_os
 		check_run
 		build_all
+		;;
+	start)
+		run_redis
 		;;
 	*)
 		print_help
