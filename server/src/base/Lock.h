@@ -22,7 +22,11 @@ public:
     virtual ~CLock();
     void lock();
     void unlock();
+#ifdef _WIN32
+	CRITICAL_SECTION& getMutex() { return m_critical_section; }
+#else
     pthread_mutex_t& getMutex() { return m_lock; }
+#endif
 #ifndef _WIN32
     virtual bool try_lock();
 #endif

@@ -217,20 +217,32 @@ void CBaseSocket::OnClose()
 
 void CBaseSocket::SetSendBufSize(uint32_t send_size)
 {
+#ifdef _WIN32
+	int ret = setsockopt(m_socket, SOL_SOCKET, SO_SNDBUF, (char*)&send_size, 4);
+#else
 	int ret = setsockopt(m_socket, SOL_SOCKET, SO_SNDBUF, &send_size, 4);
+#endif
 	if (ret == SOCKET_ERROR) {
 		log("set SO_SNDBUF failed for fd=%d", m_socket);
 	}
 
 	socklen_t len = 4;
 	int size = 0;
+#ifdef _WIN32
+	getsockopt(m_socket, SOL_SOCKET, SO_SNDBUF, (char*)&size, &len);
+#else
 	getsockopt(m_socket, SOL_SOCKET, SO_SNDBUF, &size, &len);
+#endif
 	log("socket=%d send_buf_size=%d", m_socket, size);
 }
 
 void CBaseSocket::SetRecvBufSize(uint32_t recv_size)
 {
+#ifdef _WIN32
+	int ret = setsockopt(m_socket, SOL_SOCKET, SO_RCVBUF, (char*)&recv_size, 4);
+#else
 	int ret = setsockopt(m_socket, SOL_SOCKET, SO_RCVBUF, &recv_size, 4);
+#endif
 	if (ret == SOCKET_ERROR) {
 		log("set SO_RCVBUF failed for fd=%d", m_socket);
 	}

@@ -1,0 +1,3 @@
+E:/projects/teamtalk/win_project/slog/CMakeFiles/slog.dir
+E:/projects/teamtalk/win_project/slog/CMakeFiles/ALL_BUILD.dir
+E:/projects/teamtalk/win_project/slog/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{D8FCEB58-5196-39B1-AD6F-F49295F1DBDD}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>base</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\projects\teamtalk\win_project\base\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">base.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">base</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\projects\teamtalk\win_project\base\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">base.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">base</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\projects\teamtalk\win_project\base\MinSizeRel\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">base.dir\MinSizeRel\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">base</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\projects\teamtalk\win_project\base\RelWithDebInfo\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">base.dir\RelWithDebInfo\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">base</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.lib</TargetExt>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_REENTRANT;_FILE_OFFSET_BITS=64;AC_HAS_INFO;AC_HAS_WARNING;AC_HAS_ERROR;AC_HAS_CRITICAL;TIXML_USE_STL;AC_HAS_DEBUG;LINUX_DAEMON;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\projects\teamtalk\win_project\base;E:\projects\teamtalk\server\src\base;E:\projects\teamtalk\server\src\base\.;E:\projects\teamtalk\server\src\base\..;E:\projects\teamtalk\server\src\base\.\jsoncpp;E:\projects\teamtalk\server\src\base\.\pb;E:\projects\teamtalk\server\src\base\.\pb\protocol;E:\projects\teamtalk\server\src\base\.\pthread\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\projects\teamtalk\server\src\base\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule E:/projects/teamtalk/server/src/base/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"D:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/projects/teamtalk/server/src/base -BE:/projects/teamtalk/win_project/base --check-stamp-file E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:/projects/teamtalk/server/src/base/CMakeLists.txt;E:\projects\teamtalk\server\src\base\CMakeLists.txt;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInitialize.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCCompiler.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCXXCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeGenericSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeRCCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeRCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Compiler\MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;E:\projects\teamtalk\server\src\base\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule E:/projects/teamtalk/server/src/base/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"D:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/projects/teamtalk/server/src/base -BE:/projects/teamtalk/win_project/base --check-stamp-file E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:/projects/teamtalk/server/src/base/CMakeLists.txt;E:\projects\teamtalk\server\src\base\CMakeLists.txt;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInitialize.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCCompiler.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCXXCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeGenericSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeRCCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeRCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Compiler\MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;E:\projects\teamtalk\server\src\base\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule E:/projects/teamtalk/server/src/base/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"D:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/projects/teamtalk/server/src/base -BE:/projects/teamtalk/win_project/base --check-stamp-file E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:/projects/teamtalk/server/src/base/CMakeLists.txt;E:\projects\teamtalk\server\src\base\CMakeLists.txt;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInitialize.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCCompiler.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCXXCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeGenericSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeRCCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeRCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Compiler\MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;E:\projects\teamtalk\server\src\base\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule E:/projects/teamtalk/server/src/base/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"D:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/projects/teamtalk/server/src/base -BE:/projects/teamtalk/win_project/base --check-stamp-file E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:/projects/teamtalk/server/src/base/CMakeLists.txt;E:\projects\teamtalk\server\src\base\CMakeLists.txt;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInitialize.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCCompiler.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeCXXCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeGenericSystem.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;E:\projects\teamtalk\win_project\base\CMakeFiles\3.5.2\CMakeRCCompiler.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeRCInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Compiler\MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC-CXX.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\Platform\Windows-MSVC.cmake;D:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;E:\projects\teamtalk\server\src\base\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\projects\teamtalk\win_project\base\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\Base64.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\BaseSocket.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\Condition.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\ConfigFileReader.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\EncDec.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\EventDispatch.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\HttpClient.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\HttpParserWrapper.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\http_parser.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\imconn.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\ImPduBase.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\im_conn_util.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\Lock.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\log4z.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\netlib.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\ServInfo.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\Thread.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\ThreadPool.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\TokenValidator.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\util.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\UtilPdu.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.BaseDefine.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Buddy.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.File.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Group.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Login.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Message.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Other.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.Server.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\pb\protocol\IM.SwitchService.pb.cc"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\jsoncpp\json_reader.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\jsoncpp\json_value.cpp"  />
+    <ClCompile Include="E:\projects\teamtalk\server\src\base\jsoncpp\json_writer.cpp"  />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/projects/teamtalk/win_project/base/ZERO_CHECK.vcxproj">
+      <Project>4CC4EBCB-C100-3642-9746-40DA3006C8A1</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

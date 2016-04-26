@@ -7,6 +7,7 @@
     #include <WinBase.h>
     #include <Windows.h>
     #include <direct.h>
+	#include "pthread.h"
 #else
     #ifdef __APPLE__
         #include <sys/event.h>
